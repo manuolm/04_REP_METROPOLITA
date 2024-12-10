@@ -4227,3 +4227,8 @@
 			}
 
 		}
+
+/* Añadidos para la práctica evaluable */
+	#three, #four, #footer section {
+		display: none;
+	}
